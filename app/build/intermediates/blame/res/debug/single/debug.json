@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_back_arrow.xml.flat",
+        "source": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\drawable-anydpi\\ic_back_arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_my_custom.xml.flat",
+        "source": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\layout\\view_my_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_call.png.flat",
+        "source": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\drawable-xxhdpi\\ic_call.png"
+    },
+    {
+        "merged": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_phone.png.flat",
+        "source": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\drawable-xhdpi\\ic_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_back_arrow.png.flat",
+        "source": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\drawable-hdpi\\ic_back_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_back_arrow.png.flat",
+        "source": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\drawable-xxhdpi\\ic_back_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_phone.png.flat",
+        "source": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\drawable-mdpi\\ic_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_call.xml.flat",
+        "source": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\drawable-anydpi\\ic_call.xml"
+    },
+    {
+        "merged": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_call.png.flat",
+        "source": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\drawable-xhdpi\\ic_call.png"
+    },
+    {
+        "merged": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_call.png.flat",
+        "source": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\drawable-mdpi\\ic_call.png"
+    },
+    {
+        "merged": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_phone.png.flat",
+        "source": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\drawable-xxhdpi\\ic_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_call.png.flat",
+        "source": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\drawable-hdpi\\ic_call.png"
+    },
+    {
+        "merged": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_back_arrow.png.flat",
+        "source": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\drawable-mdpi\\ic_back_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_phone.xml.flat",
+        "source": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\drawable-anydpi\\ic_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_back_arrow.png.flat",
+        "source": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\drawable-xhdpi\\ic_back_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_phone.png.flat",
+        "source": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\drawable-hdpi\\ic_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\pokaz\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    }
+]
